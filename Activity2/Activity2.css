@@ -1,0 +1,44 @@
+p{
+float:right;
+}
+#a{
+float:right;
+}
+#b{			
+float:left;
+}
+
+
+h5{
+        float:right;
+}
+
+.progress{
+        height:7px;
+        margin:20px;
+        margin-bottom: 20px;
+
+}
+i{
+font-size:50px;
+}
+
+ .progress-bar1{
+        width:70%;
+ }
+ .progress-bar2{
+        width:40%;
+ }
+ .progress-bar3{
+        width:60%;
+ }
+ .progress-bar4{
+ width:50%;
+
+ }
+ #c{
+ 	float:right;
+ }
+ #l{
+ 	float:right;
+ }
